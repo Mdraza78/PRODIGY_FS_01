@@ -56,6 +56,10 @@ https://github.com/Mdraza78/PRODIGY_FS_01.git
 ```
 
 ### 4. Create an `.env` file in the `backend/` directory with the following variables:
+```markdown
+- MONGO_URI=mongodb://127.0.0.1:27017/authdb
+- JWT_SECRET=your_jwt_secret_key
+```
 
 ## 📸 Screenshots
 

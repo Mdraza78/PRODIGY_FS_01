@@ -41,16 +41,19 @@ Develop a **secure user authentication system** using the MERN stack (MongoDB, E
 ### 1. Clone the Repository
 https://github.com/Mdraza78/PRODIGY_FS_01.git
 
-```markdown
-### 2. Backend Setup
-1. `cd backend`
-2. `npm install`
-3. `npm start`
 
+### 2. Backend Setup
+```markdown
+- cd backend
+- npm install
+- npm start
+```
 ### 3. Frontend Setup
-1. `cd frontend`
-2. `npm install`
-3. `npm run dev`
+```markdown
+- cd frontend
+- npm install
+- npm run dev
+```
 
 ### 4. Create an `.env` file in the `backend/` directory with the following variables:
 

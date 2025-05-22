@@ -60,6 +60,3 @@ https://github.com/Mdraza78/PRODIGY_FS_01.git
 This project is developed as part of Prodigy Infotech Internship and is intended for educational use.
 
 
-
-Developed by Md Raza
-

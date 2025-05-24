@@ -1,4 +1,4 @@
-# PRODIGY_WD_01 - Secure User Authentication System
+# PRODIGY_FS_01 - Secure User Authentication System
 
 This is **Task 01** of the Full Stack Web Development Internship at **Prodigy Infotech**.
 

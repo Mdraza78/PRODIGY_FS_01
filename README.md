@@ -11,8 +11,6 @@ Develop a **secure user authentication system** using the MERN stack (MongoDB, E
 - Restrict access to protected routes unless the user is authenticated.
 - Use standard mechanisms like **password hashing**, **JWT**, and **role-based access** (optional).
 
-## 🧠 Features Implemented
-
 ## 🚀 **Features Implemented**  
 
 | Feature                    | Description                                                                 |

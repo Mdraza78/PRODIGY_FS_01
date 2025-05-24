@@ -13,20 +13,31 @@ Develop a **secure user authentication system** using the MERN stack (MongoDB, E
 
 ## 🧠 Features Implemented
 
-- 🔐 **User Registration Page** — New users can create an account.
-- 🔑 **Login Page** — Existing users can securely log in.
-- 📄 **Dashboard Page** — Protected route; accessible only after login.
-- 🧂 **Password Encryption** — Implemented using **Bcrypt**.
-- 🔒 **Route Protection** — Dashboard route is secured via **JWT token authentication**.
-- 🚪 **Logout Functionality** — Users can securely log out from the dashboard.
-- ✅ **Responsive UI** with a clean and minimal design.
+## 🚀 **Features Implemented**  
+
+| Feature                    | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| 🔐 **User Registration**   | New users can create an account                                             |
+| 🔑 **Login Page**          | Existing users can securely log in                                          |
+| 📄 **Dashboard Page**      | Protected route; accessible only after login                                |
+| 🧂 **Password Encryption** | Implemented using **Bcrypt**                                                |
+| 🔒 **Route Protection**    | Secured using **JWT token authentication**                                  |
+| 🚪 **Logout Functionality**| Users can securely log out from the dashboard                               |
+| ✅ **Responsive UI**       | Clean and minimal design, works across all devices                          |
+
 
 ## 🛠️ Tech Stack Used
 
-- **Frontend**: React (Vite)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Security**: Bcrypt for hashing, JWT for token-based authentication
+**Frontend**:  
+- React (Vite)  
+- React Router  
+- Axios for API calls and connecting backend with frontend
+
+ **Backend**:  
+- Node.js & Express.js  
+- MongoDB (Mongoose)
+- Bcrypt for password hashing
+- JWT for authentication 
 
 ## 📁 Folder Structure
 
@@ -35,8 +46,10 @@ Develop a **secure user authentication system** using the MERN stack (MongoDB, E
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-https://github.com/Mdraza78/PRODIGY_FS_01.git
-
+```markdown
+git clone https://github.com/Mdraza78/PRODIGY_FS_01.git
+cd PRODIGY_FS_01
+```
 ### 2. Backend Setup
 ```markdown
 - cd backend
